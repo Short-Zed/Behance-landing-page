@@ -1,0 +1,46 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "full_name": "MD AHOSAN HABIB",
+            "image": "assets/template.png",
+            "title": "UI redesign - Amazon's Cart UI redesigned.",
+            "logo": "assets/adobe_stock.png"
+        },
+        {
+            "id": 2,
+            "full_name": "Golden Sikorka",
+            "image": "assets/template2.png",
+            "title": "Isometric Logistics and Delivery concept. Delivery home and office. City logistics. Warehouse, truck, forklift, courier, drone and delivery man.",
+            "logo": "assets/adobe_stock.png"
+        },
+        {
+            "id": 3,
+            "full_name": "Maitreyee Gadappa",
+            "image": "assets/template4.png",
+            "title": "Dark theme screens.",
+            "logo": "assets/adobe_stock.png"
+        },
+        {
+            "id": 4,
+            "full_name": "Ajai Saravanan",
+            "image": "assets/template7.png",
+            "title": "Upload Cart - Ecommerce UI.",
+            "logo": "assets/adobe_stock.png"
+        },
+        {
+            "id": 5,
+            "full_name": "Mahnoor Esha",
+            "image": "assets/template9.png",
+            "title": "E-Commerce Website Dark and Light Theme UI Design.",
+            "logo": "assets/adobe_stock.png"
+        },
+        {
+            "id": 6,
+            "full_name": "Multiple Owners",
+            "image": "assets/template11.png",
+            "title": "Food App UI Design.",
+            "logo": "assets/adobe_stock.png"
+        }
+    ]
+}

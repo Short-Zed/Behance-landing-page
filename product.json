@@ -1,0 +1,378 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "full_name": "Chirag Bactor",
+            "location": "us",
+            "appreciations": 81,
+            "followers": 21,
+            "project-views": 285,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Cutting Edge Golf Carts",
+                "like": 179,
+                "views": 984,
+                "productImg": "assets/template2.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 2,
+            "full_name": "Saumil Digital",
+            "location": "india",
+            "appreciations": 34,
+            "followers": 21,
+            "project-views": 299,
+            "full_time": "no",
+            "freelance": "yes",
+            "details": {
+                "title": "Upload Cart - Ecommerce UI",
+                "like": 9,
+                "views": 29,
+                "productImg": "assets/template.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 3,
+            "full_name": "Harriharasudhan MK",
+            "location": "india",
+            "appreciations": 21,
+            "followers": 19,
+            "project-views": 205,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Food Cart Page",
+                "like": 19,
+                "views": 704,
+                "productImg": "assets/template3.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 4,
+            "full_name": "Ajai Saravanan",
+            "location": "india",
+            "appreciations": 1,
+            "followers": 2,
+            "project-views": 5,
+            "full_time": "yes",
+            "freelance": "no",
+            "details": {
+                "title": "Second Day challange",
+                "like": 1,
+                "views": 9,
+                "productImg": "assets/template4.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 5,
+            "full_name": "Mahnoor Esha",
+            "location": "us",
+            "appreciations": 819,
+            "followers": 201,
+            "project-views": 675,
+            "full_time": "no",
+            "freelance": "no",
+            "details": {
+                "title": "E-Commerce Website Dark and Light Theme UI Design",
+                "like": 233,
+                "views": 999,
+                "productImg": "assets/template5.png",
+                "category": "ui/ux"
+            }
+        },
+        {
+            "id": 6,
+            "full_name": "Multiple Owners",
+            "location": "us",
+            "appreciations": 766,
+            "followers": 199,
+            "project-views": 285,
+            "full_time": "no",
+            "freelance": "yes",
+            "details": {
+                "title": "Food App UI Design",
+                "like": 179,
+                "views": 994,
+                "productImg": "assets/template6.png",
+                "category": "user interface"
+            }
+        },
+        {
+            "id": 7,
+            "full_name": "Chigozie Francis",
+            "location": "us",
+            "appreciations": 31,
+            "followers": 11,
+            "project-views": 85,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Checkout Page",
+                "like": 10,
+                "views": 199,
+                "productImg": "assets/template7.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 8,
+            "full_name": "Maitreyee Gadappa",
+            "location": "india",
+            "appreciations": 51,
+            "followers": 19,
+            "project-views": 15,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Dark theme screens",
+                "like": 100,
+                "views": 399,
+                "productImg": "assets/template8.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 9,
+            "full_name": "Faizan Ahmed",
+            "location": "india",
+            "appreciations": 501,
+            "followers": 190,
+            "project-views": 195,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Fashion eCommerce App UI",
+                "like": 133,
+                "views": 869,
+                "productImg": "assets/template9.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 10,
+            "full_name": "Abhilash Mishra",
+            "location": "india",
+            "appreciations": 521,
+            "followers": 120,
+            "project-views": 105,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "UI redesign - Amazon's Cart UI redesigned.",
+                "like": 113,
+                "views": 669,
+                "productImg": "assets/template10.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 11,
+            "full_name": "MD AHOSAN HABIB",
+            "location": "india",
+            "appreciations": 821,
+            "followers": 900,
+            "project-views": 995,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Product details page, wish list page ui design",
+                "like": 231,
+                "views": 989,
+                "productImg": "assets/template11.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 12,
+            "full_name": "Chirag Bactor",
+            "location": "us",
+            "appreciations": 81,
+            "followers": 21,
+            "project-views": 285,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Cutting Edge Golf Carts",
+                "like": 179,
+                "views": 984,
+                "productImg": "assets/template.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 13,
+            "full_name": "Saumil Digital",
+            "location": "india",
+            "appreciations": 34,
+            "followers": 21,
+            "project-views": 299,
+            "full_time": "no",
+            "freelance": "yes",
+            "details": {
+                "title": "Upload Cart - Ecommerce UI",
+                "like": 9,
+                "views": 29,
+                "productImg": "assets/template7.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 14,
+            "full_name": "Harriharasudhan MK",
+            "location": "india",
+            "appreciations": 21,
+            "followers": 19,
+            "project-views": 205,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Food Cart Page",
+                "like": 19,
+                "views": 704,
+                "productImg": "assets/template11.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 15,
+            "full_name": "Ajai Saravanan",
+            "location": "india",
+            "appreciations": 1,
+            "followers": 2,
+            "project-views": 5,
+            "full_time": "yes",
+            "freelance": "no",
+            "details": {
+                "title": "Second Day challange",
+                "like": 1,
+                "views": 9,
+                "productImg": "assets/template7.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 16,
+            "full_name": "Mahnoor Esha",
+            "location": "us",
+            "appreciations": 819,
+            "followers": 201,
+            "project-views": 675,
+            "full_time": "no",
+            "freelance": "no",
+            "details": {
+                "title": "E-Commerce Website Dark and Light Theme UI Design",
+                "like": 233,
+                "views": 999,
+                "productImg": "assets/template9.png",
+                "category": "ui/ux"
+            }
+        },
+        {
+            "id": 17,
+            "full_name": "Multiple Owners",
+            "location": "us",
+            "appreciations": 766,
+            "followers": 199,
+            "project-views": 285,
+            "full_time": "no",
+            "freelance": "yes",
+            "details": {
+                "title": "Food App UI Design",
+                "like": 179,
+                "views": 994,
+                "productImg": "assets/template3.png",
+                "category": "user interface"
+            }
+        },
+        {
+            "id": 18,
+            "full_name": "Chigozie Francis",
+            "location": "us",
+            "appreciations": 31,
+            "followers": 11,
+            "project-views": 85,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Checkout Page",
+                "like": 10,
+                "views": 199,
+                "productImg": "assets/template9.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 19,
+            "full_name": "Maitreyee Gadappa",
+            "location": "india",
+            "appreciations": 51,
+            "followers": 19,
+            "project-views": 15,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Dark theme screens",
+                "like": 100,
+                "views": 399,
+                "productImg": "assets/template6.png",
+                "category": "ui design"
+            }
+        },
+        {
+            "id": 20,
+            "full_name": "Faizan Ahmed",
+            "location": "india",
+            "appreciations": 501,
+            "followers": 190,
+            "project-views": 195,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Fashion eCommerce App UI",
+                "like": 133,
+                "views": 869,
+                "productImg": "assets/template4.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 21,
+            "full_name": "Abhilash Mishra",
+            "location": "india",
+            "appreciations": 521,
+            "followers": 120,
+            "project-views": 105,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "UI redesign - Amazon's Cart UI redesigned.",
+                "like": 113,
+                "views": 669,
+                "productImg": "assets/template10.png",
+                "category": "ecommerce"
+            }
+        },
+        {
+            "id": 22,
+            "full_name": "MD AHOSAN HABIB",
+            "location": "india",
+            "appreciations": 821,
+            "followers": 900,
+            "project-views": 995,
+            "full_time": "yes",
+            "freelance": "yes",
+            "details": {
+                "title": "Product details page, wish list page ui design",
+                "like": 231,
+                "views": 989,
+                "productImg": "assets/template.png",
+                "category": "ecommerce"
+            }
+        }
+    ]
+}
