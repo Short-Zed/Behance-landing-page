@@ -1,6 +1,6 @@
 # Behance Landing Page - Frontend Copy  
 
-**Live Demo:** [Behance Landing Page](https://short-zed.github.io/behance-landing-page/)   
+**Live Demo:** [Behance Landing Page](https://short-zed.github.io/Behance-landing-page/)   
 
 A responsive frontend clone of Behance's landing page, built using modern HTML, CSS, and JavaScript. This project focuses on replicating Behance's visually appealing design and user-friendly interface while maintaining clean, efficient, and responsive code.
 
@@ -29,7 +29,7 @@ A responsive frontend clone of Behance's landing page, built using modern HTML, 
 ## Preview  
 
 ### Live Link  
-Click here to preview the project: [Behance Landing Page](https://short-zed.github.io/behance-landing-page/)  
+Click here to preview the project: [Behance Landing Page](https://short-zed.github.io/Behance-landing-page/)  
 
 ---
 
